@@ -88,21 +88,21 @@ craftingTable.addShaped("steel_helmet1", <item:mekanismtools:steel_helmet>, [
     [wool, casing, wool]
 ]);
 
-craftingTable.remove(<item:mekanismtools:steel_chestplate>)
+craftingTable.remove(<item:mekanismtools:steel_chestplate>);
 craftingTable.addShaped("steel_chestplate1", <item:mekanismtools:steel_chestplate>, [
     [wool, casing, wool],
     [casing, <item:minecraft:leather_chestplate> ,casing],
     [wool, casing, wool]
 ]);
 
-craftingTable.remove(<item:mekanismtools:steel_leggings>)
+craftingTable.remove(<item:mekanismtools:steel_leggings>);
 craftingTable.addShaped("steel_leggings1", <item:mekanismtools:steel_leggings>, [
     [wool, casing, wool],
     [casing, <item:minecraft:leather_leggings> ,casing],
     [wool, casing, wool]
 ]);
 
-craftingTable.remove(<item:mekanismtools:steel_boots>)
+craftingTable.remove(<item:mekanismtools:steel_boots>);
 craftingTable.addShaped("steel_boots1", <item:mekanismtools:steel_boots>, [
     [wool, casing, wool],
     [casing, <item:minecraft:leather_boots> ,casing],
